@@ -48,7 +48,7 @@ class Rastreamento {
 	private $historico;
 	
 	/**
-	 * Histórico do pacote (rastreio)
+	 * URL de rastreamento de pacotes
 	 * @var array
 	 */
 	private $resource = 'http://websro.correios.com.br/sro_bin/txect01$.QueryList?P_LINGUA=001&P_TIPO=001&P_COD_UNI=';

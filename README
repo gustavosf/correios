@@ -1,0 +1,4 @@
+Classe simples para acesso de serviços dos correios, dividido em módulos.
+
+Módulos disponíveis:
+- Rastreamento de Encomenda [Correios()->Rastreamento()]
